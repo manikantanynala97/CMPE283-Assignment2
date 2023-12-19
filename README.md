@@ -115,8 +115,8 @@ sudo qemu-system-x86_64 -enable-kvm -hda bionic-server-cloudimg-amd64.img -drive
 
 ### **Output:**
 
-![output1](![assignment2-2](https://github.com/manikantanynala97/CMPE283-Assignment2/assets/90610801/7caa5c99-c820-4b35-8683-fc0de53f5f08)
-)
+![assignment2-2](https://github.com/manikantanynala97/CMPE283-Assignment2/assets/90610801/de39c0ed-ee7d-4c02-927f-3d5d3fe05397)
 
-![output2](![assignment2-3](https://github.com/manikantanynala97/CMPE283-Assignment2/assets/90610801/fbb1d01b-84e3-4f2d-9fbc-1713373d5632)
-)
+![assignment2-3](https://github.com/manikantanynala97/CMPE283-Assignment2/assets/90610801/f7208d02-c32c-488a-9f9a-f85ee326ae5c)
+
+
